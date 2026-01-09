@@ -3,16 +3,16 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/menu_seccion_1"
-            android:icon="@drawable/iconmenu"
-            android:title="Sección 1"/>
+            android:icon="@drawable/clientes"
+            android:title="Clientes" />
         <item
             android:id="@+id/menu_seccion_2"
-            android:icon="@drawable/iconmenu"
-            android:title="Sección 2"/>
+            android:icon="@drawable/productos"
+            android:title="Productos"/>
         <item
             android:id="@+id/menu_seccion_3"
-            android:icon="@drawable/iconmenu"
-            android:title="Sección 3"/>
+            android:icon="@drawable/proveedores"
+            android:title="Proveedores"/>
     </group>
     <item
         android:id="@+id/navigation_subheader"
